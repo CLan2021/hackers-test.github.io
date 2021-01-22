@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/hackers-test/hackers-test.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Hello world, I'm Phylo and I like to code
+![https://avatars1.githubusercontent.com/u/35695683?s=460&v=4
+](https://avatars1.githubusercontent.com/u/35695683?s=460&v=4
+)  
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## What is this page?
+This is an example github page that can be generated when you create a repo called `{username}.github.io`. Go to Settings and enable Github Pages for the repo. If you want you can also set a Theme.
 
-# Header 1
-## Header 2
-### Header 3
+All of the code for this page is simply written in Markdown here in the README file. You can use this repository to create a fully functional static website. This can be extended to create larger sites, like the one for this course [https://eaton-lab.org/hack-the-planet](https://eaton-lab.org/hack-the-planet).
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+## Check out my code
+```python
+## my favorite function
+def phylo(action):
+    if action == "eat":
+        print("yum yum yum")
+    elif action == "sleep":
+        print("zzzzzzz")
+    elif action == "walk":
+        print("... wizzzzzz... plop")
+    else:
+        print("sorry, I only eat, sleep, and walk")
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```python
+## test my code
+phylo("eat")
+```
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hackers-test/hackers-test.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+```python
+yum yum yum
+```
